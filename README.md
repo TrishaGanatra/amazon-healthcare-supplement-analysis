@@ -84,3 +84,13 @@ Large and small supplement brands alike struggle to understand which product lis
 ├── models/                   # saved pipelines & artifacts
 ├── figures/                  # final charts for poster & slides
 └── README.md                 # this overview
+
+---
+
+## 🤝 Contributing & Contact
+
+Contributions and feedback are very welcome!  
+
+📬 You can also reach me at:  
+– **Email:** tganatra@seattleu.edu or trishaganatra@gmail.com
+– **LinkedIn:** https://www.linkedin.com/in/trishaganatra/
