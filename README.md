@@ -72,6 +72,15 @@ Large and small supplement brands alike struggle to understand which product lis
 
 5. **Proxy Features Only**  
    – Flags such as “Subscribe and Save” and “Prime Eligible” capture availability but not actual conversion uplift or repeat purchase.
+---
+
+## 🤝 Contributing & Contact
+
+Contributions and feedback are very welcome!  
+
+📬 You can also reach me at:  
+– **Email:** tganatra@seattleu.edu or trishaganatra@gmail.com
+– **LinkedIn:** https://www.linkedin.com/in/trishaganatra/
 
 ---
 
@@ -87,10 +96,4 @@ Large and small supplement brands alike struggle to understand which product lis
 
 ---
 
-## 🤝 Contributing & Contact
 
-Contributions and feedback are very welcome!  
-
-📬 You can also reach me at:  
-– **Email:** tganatra@seattleu.edu or trishaganatra@gmail.com
-– **LinkedIn:** https://www.linkedin.com/in/trishaganatra/
