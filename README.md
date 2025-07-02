@@ -1,11 +1,11 @@
-# 📈 What Drives Healthcare Supplement Sales on Amazon?
+# What Drives Healthcare Supplement Sales on Amazon?
 
 **A Data-Driven Exploration**  
 *By Trisha Ganatra, Business Analyst | Product Analyst | ex-L'Oréal*
 
 ---
 
-## 🚀 Business Objective
+## Business Objective
 
 Large and small supplement brands alike struggle to understand which product listing levers truly move the needle on Amazon. This project delivers a turnkey pipeline—from live data pull to machine learning and unsupervised segmentation—to:
 
@@ -15,7 +15,7 @@ Large and small supplement brands alike struggle to understand which product lis
 
 ---
 
-## 🔍 Approach & Methodology
+## Approach & Methodology
 
 ### 1. Live Data Acquisition  
 - **Browser Automation** with Selenium: Scraped ASIN, price, review count & rating, ad type, Prime & Subscribe-&-Save flags for 20 high-intent keywords.  
@@ -46,7 +46,7 @@ Large and small supplement brands alike struggle to understand which product lis
 
 ---
 
-## 💡 Key Insights & Recommendations
+## Key Insights & Recommendations
 
 - **Reviews Matter Most:** Accelerate review velocity via early-stage sampling, follow-up emails, or bundled incentives.  
 - **Video & A+ Content:** Invest in 60-second demos and enhanced branding flows—Top sellers almost always feature rich media.  
@@ -55,7 +55,7 @@ Large and small supplement brands alike struggle to understand which product lis
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 1. **No True Sales Data**  
    – We infer “units sold” via Keepa rank drops (e.g. 90-day rank deltas), not actual Amazon sales figures.  
@@ -74,7 +74,7 @@ Large and small supplement brands alike struggle to understand which product lis
    – Flags such as “Subscribe and Save” and “Prime Eligible” capture availability but not actual conversion uplift or repeat purchase.
 ---
 
-## 🤝 Contributing & Contact
+## Contributing & Contact
 
 Contributions and feedback are very welcome!  
 
@@ -84,7 +84,7 @@ Contributions and feedback are very welcome!
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 ```text
 ├── data/                     # raw & cleaned CSV exports
